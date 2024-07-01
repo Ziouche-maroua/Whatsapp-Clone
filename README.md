@@ -1,7 +1,7 @@
 # WhatsApp Clone
 This is a WhatsApp Clone application built using the MERN stack (MongoDB, Express, React, Node.js).
 <h1>Prerequisites</h1>
-Before you begin, ensure you have met the following requirements:
+Before you begin, ensure you have met the following requirements: <br></br>
 .Node.js installed on your machine
 .MongoDB installed and running on your machine or a cloud MongoDB service
 <h1>Installation</h1>
