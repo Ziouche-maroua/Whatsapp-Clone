@@ -1,0 +1,6 @@
+{
+    "watch": ["convex"],
+    "ext": "ts,js",
+    "exec": "npx convex dev"
+  }
+  
